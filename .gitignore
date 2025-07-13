@@ -1,0 +1,30 @@
+# Virtual environment
+venv/
+env/
+.env
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Mac specific
+.DS_Store
+
+# IDE specific
+.vscode/
+.idea/
+
+# Data files (if they contain sensitive information)
+# Uncomment the line below if your data files should not be shared
+# data/
+
+# Temporary files
+*.tmp
+*.temp
+
+data/*
